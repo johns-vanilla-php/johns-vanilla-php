@@ -6,9 +6,50 @@ I am new to using Git, so you won't yet see much of my work, but it is coming!
 
 ## Repository Naming Scheme
 
-To find repositories easier, each one will have a prefix as follows:
-- php-  PHP Examples
-- js-   JavaScript Examples
-- css-  CSS Examples
-- bat-  Windows Batch Files
-- fork- Forked Repositories
+<table style="width: 100%; border: 0;">
+  <tr>
+    <td style="width: 100%;" colspan="2">
+      To find repositories easier, each one will have a prefix as follows:
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 10%;">
+      php-
+    </td>
+    <td style="width: 90%;">
+      PHP Examples
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 10%;">
+      js-
+    </td>
+    <td style="width: 90%;">
+      JavaScript Examples
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 10%;">
+      css-
+    </td>
+    <td style="width: 90%;">
+      Cascading Style Sheets
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 10%;">
+      bat-
+    </td>
+    <td style="width: 90%;">
+      Windows Batch Files
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 10%;">
+      fork-
+    </td>
+    <td style="width: 90%;">
+      Forked Repositories
+    </td>
+  </tr>
+</table>
