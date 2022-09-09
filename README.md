@@ -52,4 +52,12 @@ I am new to using Git, so you won't yet see much of my work, but it is coming!
       Forked Repositories
     </td>
   </tr>
+  <tr>
+    <td style="width: 10%;">
+      mod-
+    </td>
+    <td style="width: 90%;">
+      Modified from another repository
+    </td>
+  </tr>
 </table>
