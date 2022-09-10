@@ -1,7 +1,7 @@
 # Hello there!
 
 My name is John Stuttler.
-I have been building web sites since 2002 using vanilla PHP and MySQL. 
+I have been building web sites since 1998.  I began using PHP and MySQL in 2002.
 I am new to using Git, so you won't yet see much of my work, but it is coming!
 
 ## Repository Naming Scheme
@@ -66,6 +66,14 @@ I am new to using Git, so you won't yet see much of my work, but it is coming!
     </td>
     <td style="width: 90%;">
       Modified from another repository
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 10%;">
+      ex-
+    </td>
+    <td style="width: 90%;">
+      Examples of how I did something.
     </td>
   </tr>
 </table>
