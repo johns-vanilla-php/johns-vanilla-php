@@ -77,3 +77,37 @@ I am new to using Git, so you won't yet see much of my work, but it is coming!
     </td>
   </tr>
 </table>
+
+## File Directory Structure
+
+This is the typical directory structure that I use, unless otherwise noted.  Pleast note that the Root folder will vary depending on your setup:
+> The GoDaddy root directory depends on your cPanel login.  For example, if your cPanel login is "x123Y456", then your root directory would be "/home/x123Y456/" and your public directory would be "/home/x123Y456/public_html/".
+
+> If you are hosting this site locally, then your root directory would be dependent on where you installed XAMPP.  For example, if you installed XAMPP in C:\XAMPP drive, then your root directory would be "C:\XAMPP\" and your public directory would be "C:\XAMPP\htdocs\".
+
+> Only files that are referenced are listed here.
+
+```
+Root (See notes above)
+├───config
+│   └───subfolder1
+│   │   ├───file111.txt
+│   │   ├───file112.txt
+│   │   └───file113.txt
+│   ├───file011.txt
+│   └───file012.txt
+├───cron
+├───engine
+├───error_logs
+├───form_actions
+├───init
+│   ├───file021.txt
+│   └───file022.txt
+├───public_html (or htdocs)
+│   ├───file021.txt
+│   └───file022.txt
+├───README.md
+└───file001.txt    
+```
+
+[^1]: The root folder for a GoDaddy-hosted site is "/home/cpanel-account/" where "cpanel-account/ is your GoDaddy cPanel Login.
